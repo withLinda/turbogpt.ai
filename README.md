@@ -52,4 +52,4 @@ If you have any questions or issues with TurboGPT, please open an issue on the p
 
 ## Credits
 
-TurboGPT was developed by Mike Pechousek (https://linkedin.com/in/mikepechousek). Special thanks to OpenAI for their simple API. 
+TurboGPT was developed by [Mike Pechousek](https://linkedin.com/in/mikepechousek). Special thanks to OpenAI for their simple API. 
