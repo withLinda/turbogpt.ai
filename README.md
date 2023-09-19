@@ -2,7 +2,7 @@
 TurboGPT is an open-source ChatGPT UI project that enables users to chat with AI-powered open GPT-3 technology. TurboGPT can be used as a standalone chatbot or integrated into a larger project.
 
 forked from [mikebpech/turbogpt.ai](https://github.com/mikebpech/turbogpt.ai), All I've done is change up the colors a little bit. I'm using Night Owl for the Dark mode, and a cool combo of Solarized Light and Sandy Beach for the Light mode.
-Deployed to [turbogpt.withlinda.dev](https://turbogpt.withlinda.dev)
+Deployed to ~~[turbogpt.withlinda.dev](https://turbogpt.withlinda.dev)~~ (I paused the deployment because it uses a lot of RAM and deployment become expensive, 1.86 GB memory, not sure why)
 
 ![Screenshot 2023-09-19 003832](https://github.com/withLinda/turbogpt.ai/assets/82918531/456f4eae-48ff-4485-9901-b8b681114f94)
 
